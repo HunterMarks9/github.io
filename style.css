@@ -1,6 +1,10 @@
 body {
-  background-color: #DBF9FC;
   color:#000;
   box-sizing:border-box;
+}
+
+body.darktheme{
+  background-color: #1d2a35!important;
+  color: #ddd!important;
 }
 
