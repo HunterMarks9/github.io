@@ -10,7 +10,6 @@
       dur="10s" 
       repeatCount="indefinite" 
       path="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z">
-          <animate attributeName="rx" values="0;15;0" dur="10s" repeatCount="indefinite"/>
       </animateMotion>
     </ellipse>
 
