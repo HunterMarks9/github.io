@@ -6,7 +6,7 @@
       d="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z">
     </path>
   
-    <ellipse rx="25" ry="10" fill="yellow">
+    <ellipse rx="25" ry="10" fill="#ffff99">
       <animateMotion 
       dur="10s" 
       repeatCount="indefinite" 
