@@ -1,10 +1,14 @@
-body {
-  color:#000;
-  box-sizing:border-box;
-}
-
 body.darktheme{
   background-color: #1d2a35!important;
   color: #ddd!important;
+}
+
+body{
+  display: block;
+  margin: 8px;
+}
+
+html{
+  -webkit-text-size-adjust: 100%;
 }
 
