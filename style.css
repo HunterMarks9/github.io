@@ -12,3 +12,30 @@ html{
   -webkit-text-size-adjust: 100%;
 }
 
+#header{
+  padding:4px;
+  background-color: #ff6600;
+  width:80%;
+  margin:0 auto;
+}
+
+#container {
+  width:80%;
+  margin:0 auto;
+  padding:10px 0;
+  background-color: rgb(246, 246, 239);
+}
+
+#footer {
+  padding:4px;
+  width:80%;
+  margin:0 auto;
+  background-color: #ff6600;
+  text-align:center;
+  font-size:10px;
+}
+
+#animation{
+  margin:0 auto;
+}
+
