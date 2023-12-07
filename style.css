@@ -1,6 +1,7 @@
-body.darktheme{
-  background-color: #1d2a35!important;
-  color: #ddd!important;
+body{
+	height: 150em;
+	background-color: #4568dc;
+	background-image: linear-gradient(to bottom right, #4568dc, #b06ab3) ;
 }
 
 body{
