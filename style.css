@@ -36,10 +36,20 @@ h2{
 	text-align: center;
 }
 
-a{
-	color: yellow;
-	text-align: center;
-	
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 td{
